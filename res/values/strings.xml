@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, EpikoinwniaActivity!</string>
+    <string name="app_name">Epikoinwniav1.0</string>
+    <string name="play">Play game</string>
+
+</resources>

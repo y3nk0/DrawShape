@@ -1,0 +1,12 @@
+assets/Card_Circle.png
+assets/Card_Cross.png
+assets/Card_Horizontal.png
+assets/Card_HorizontalLines.png
+assets/Card_Square.png
+assets/Card_VerticalLines.png
+<backside>
+assets/Card_Blank.png
+assets/Card_backside.png
+assets/Card_KillSelf.png
+assets/Card_TimeExtend.png
+assets/Card_TimeShorten.png
